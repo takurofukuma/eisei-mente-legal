@@ -1,0 +1,14 @@
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Hiragino Sans', sans-serif;
+  max-width: 680px; margin: 40px auto; padding: 0 20px;
+  color: #333; line-height: 1.8;
+}
+h1 { color: #00506E; font-size: 22px; }
+h2 { font-size: 16px; margin-top: 30px; border-left: 4px solid #00506E; padding-left: 10px; }
+p, li { margin: 8px 0; }
+table { border-collapse: collapse; width: 100%; margin: 12px 0; font-size: 14px; }
+th, td { border: 1px solid #ccd; padding: 8px 10px; text-align: left; }
+th { background: #eef4f7; }
+.note { background: #f5f7fa; border-radius: 8px; padding: 12px 16px; font-size: 14px; }
+.footer { margin-top: 48px; color: #999; font-size: 0.85em; border-top: 1px solid #eee; padding-top: 16px; }
+a { color: #00506E; }
